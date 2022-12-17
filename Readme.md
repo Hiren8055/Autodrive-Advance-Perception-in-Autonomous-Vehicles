@@ -11,3 +11,8 @@ To run code
 ```
 python main.py
 ```
+
+For lane segmentation make the flag true.
+
+# References
+- [Simple online and realtime tracking with association metric](https://github.com/theAIGuysCode)
